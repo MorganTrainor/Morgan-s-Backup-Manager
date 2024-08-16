@@ -1,0 +1,14 @@
+C:\Users\Fireb\source\repos\Morgans Backup Manager\bin\Debug\net8.0\Morgans Backup Manager.exe
+C:\Users\Fireb\source\repos\Morgans Backup Manager\bin\Debug\net8.0\Morgans Backup Manager.deps.json
+C:\Users\Fireb\source\repos\Morgans Backup Manager\bin\Debug\net8.0\Morgans Backup Manager.runtimeconfig.json
+C:\Users\Fireb\source\repos\Morgans Backup Manager\bin\Debug\net8.0\Morgans Backup Manager.dll
+C:\Users\Fireb\source\repos\Morgans Backup Manager\bin\Debug\net8.0\Morgans Backup Manager.pdb
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.AssemblyInfoInputs.cache
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.AssemblyInfo.cs
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.csproj.CoreCompileInputs.cache
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.dll
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\refint\Morgans Backup Manager.dll
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.pdb
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\Morgans Backup Manager.genruntimeconfig.cache
+C:\Users\Fireb\source\repos\Morgans Backup Manager\obj\Debug\net8.0\ref\Morgans Backup Manager.dll
